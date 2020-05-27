@@ -1,5 +1,9 @@
 # Pintos
 
+**!!!WARNING!!!**
+**DISCLAIMER: DO NOT EVER USE this for your coursework.**
+
+
 ## Project 0
 
 Welcome to 14-712 Operating System!
